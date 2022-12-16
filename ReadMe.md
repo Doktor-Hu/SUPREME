@@ -95,9 +95,9 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Python 3.8.8][Python.js]][Next-url | width=100]
-* [![GDAL][GDAL.js]][Next-url | width=100]
-* [![Tensorflow][TF.js]][Vue-url | width=100]
+* [![Python 3.8.8][Python.js]][Next-url]
+* [![GDAL][GDAL.js]][Next-url]
+* [![Tensorflow][TF.js]][Vue-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -254,11 +254,11 @@ Use this space to list resources you find helpful and would like to give credit 
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-[Python.js]: https://www.python.org/static/img/python-logo.png
+[Python.js]: https://www.python.org/static/img/python-logo.png  | width=100
 [Python-url]: https://nextjs.org/
-[GDAL.js]: https://gdal.org/_static/gdalicon.png
+[GDAL.js]: https://gdal.org/_static/gdalicon.png  | width=100
 [GDAL-url]: https://nextjs.org/
-[TF.js]: https://www.gstatic.com/devrel-devsite/prod/vdbc400b97a86c8815ab6ee057e8dc91626aee8cf89b10f7d89037e5a33539f53/tensorflow/images/lockup.svg
+[TF.js]: https://www.gstatic.com/devrel-devsite/prod/vdbc400b97a86c8815ab6ee057e8dc91626aee8cf89b10f7d89037e5a33539f53/tensorflow/images/lockup.svg  | width=100
 [TF-url]: https://nextjs.org/
 
 
