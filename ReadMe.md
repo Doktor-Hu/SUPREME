@@ -96,7 +96,7 @@ Use the `BLANK_README.md` to get started.
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * ![Python 3.8.8](https://badges.aleen42.com/src/python.svg)
-* [![GDAL][GDAL.js]][Next-url]
+* ![GDAL](https://img.shields.io/badge/OSGeo-GDAL-green)
 * ![Tensorflow 2.0](https://badges.aleen42.com/src/tensorflow.svg)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
