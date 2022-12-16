@@ -197,7 +197,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@ZhongyangHu](https://twitter.com/zhongyanghu) - z.hu[at]uu.nl
+Dr. Zhongyang Hu - [@ZhongyangHu](https://twitter.com/zhongyanghu) - z.hu[at]uu.nl
 
 Project Link: [SUPREME](https:///github.com/Doktor-Hu/SUPREME)
 
