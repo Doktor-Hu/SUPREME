@@ -38,6 +38,7 @@
 
   <p align="center">
     Dataset | Super Resolution Model | Training and Evaluation | Application
+    
     <img src="https://badges.aleen42.com/src/python.svg" width="58" height="13">
     <img src="https://img.shields.io/badge/OSGeo-GDAL-green" width="58" height="13">
     <img src="https://badges.aleen42.com/src/tensorflow.svg" width="58" height="13">
