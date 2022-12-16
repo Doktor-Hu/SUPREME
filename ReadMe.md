@@ -37,7 +37,7 @@
   <h3 align="center">SUPREME: a SUPer-REsolution-based Melt Estimation over Antarctica</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Dataset | Super Resolution Model | Training and Evaluation | Application
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
