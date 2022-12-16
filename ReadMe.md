@@ -82,7 +82,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About SUPREME and BASED
-SUPREME is based on a standard framework named BASED (A Benchmark for Antarctic Surface-melt Estimation and Downscaling) developed by Dr. Zhongyang Hu (z.hu[at]uu.nl). This repo contains a detailed introduction of BASED.
+SUPREME is an Antarctica-wide surface melt product developed using a framework named BASED (A Benchmark for Antarctic Surface-melt Estimation and Downscaling) developed by Dr. Zhongyang Hu (z.hu[at]uu.nl). This repository contains a detailed introduction of BASED and SUPREME.
 
 ![product-screenshot](Asset/BASED.png)
 
