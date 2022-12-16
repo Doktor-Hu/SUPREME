@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## SUPREME: a SUPer-REsolution-based Melt Estimation over Antarctica
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](Asset/BASED.png)
 
 SUPREME is based on a standard framework named BASED (A Benchmark for Antarctic Surface-melt Estimation and Downscaling) developed by Dr. Zhongyang Hu (z.hu[at]uu.nl). This repo contains a detailed introduction of BASED.
 
@@ -91,7 +91,6 @@ Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[](Asset/BASED.png)
 
 ### Built With
 
