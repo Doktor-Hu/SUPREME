@@ -256,3 +256,9 @@ Use this space to list resources you find helpful and would like to give credit 
 [JQuery-url]: https://jquery.com 
 [Python.js]: https://www.python.org/static/community_logos/python-logo.png
 [Python-url]: https://nextjs.org/
+[GDAL.js]: https://gdal.org/_static/gdalicon.png
+[GDAL-url]: https://nextjs.org/
+[TF.js]: https://gdal.org/_static/gdalicon.png
+[TF-url]: https://nextjs.org/
+
+
