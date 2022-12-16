@@ -38,7 +38,6 @@
 
   <p align="center">
     Dataset | Super Resolution Model | Training and Evaluation | Application
-    <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="Asset/LOGO.png](https://badges.aleen42.com/src/python.svg" alt="Logo" width="584" height="139">
     <img src="https://img.shields.io/badge/OSGeo-GDAL-green" alt="Logo" width="584" height="139">
     <img src="https://badges.aleen42.com/src/tensorflow.svg" alt="Logo" width="584" height="139">
