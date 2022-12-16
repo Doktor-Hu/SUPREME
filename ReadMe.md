@@ -82,10 +82,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About SUPREME and BASED
+SUPREME is based on a standard framework named BASED (A Benchmark for Antarctic Surface-melt Estimation and Downscaling) developed by Dr. Zhongyang Hu (z.hu[at]uu.nl). This repo contains a detailed introduction of BASED.
 
 ![product-screenshot](Asset/BASED.png)
-
-SUPREME is based on a standard framework named BASED (A Benchmark for Antarctic Surface-melt Estimation and Downscaling) developed by Dr. Zhongyang Hu (z.hu[at]uu.nl). This repo contains a detailed introduction of BASED.
 
 Use the `BLANK_README.md` to get started.
 
@@ -255,3 +254,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[Python.js]: https://www.python.org/static/community_logos/python-logo.png
+[Python-url]: https://nextjs.org/
