@@ -24,6 +24,7 @@
 [![MIT License][license-shield]][license-url]
 -->
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Python 3.8.8](https://badges.aleen42.com/src/python.svg)]
 
 
 
