@@ -95,9 +95,9 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Python 3.8.8][Python.js]][Next-url]
-* [![GDAL][GDAL.js]][Next-url]
-* [![Tensorflow][TF.js]][Vue-url]
+* [![Python 3.8.8][Python.js]][Next-url | width=100]
+* [![GDAL][GDAL.js]][Next-url | width=100]
+* [![Tensorflow][TF.js]][Vue-url | width=100]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
