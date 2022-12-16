@@ -254,11 +254,11 @@ Use this space to list resources you find helpful and would like to give credit 
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-[Python.js]: https://www.python.org/static/img/python-logo.png | width=100
+[Python.js]: https://www.python.org/static/img/python-logo.png
 [Python-url]: https://nextjs.org/
-[GDAL.js]: https://gdal.org/_static/gdalicon.png | width=100
+[GDAL.js]: https://gdal.org/_static/gdalicon.png
 [GDAL-url]: https://nextjs.org/
-[TF.js]: https://www.gstatic.com/devrel-devsite/prod/vdbc400b97a86c8815ab6ee057e8dc91626aee8cf89b10f7d89037e5a33539f53/tensorflow/images/lockup.svg | width=100
+[TF.js]: https://www.gstatic.com/devrel-devsite/prod/vdbc400b97a86c8815ab6ee057e8dc91626aee8cf89b10f7d89037e5a33539f53/tensorflow/images/lockup.svg
 [TF-url]: https://nextjs.org/
 
 
