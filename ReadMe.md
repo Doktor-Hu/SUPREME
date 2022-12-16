@@ -96,7 +96,7 @@ Use the `BLANK_README.md` to get started.
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![Python 3.8.8][Python.js]][Next-url]
-* ![]([https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://www.gstatic.com/devrel-devsite/prod/vdbc400b97a86c8815ab6ee057e8dc91626aee8cf89b10f7d89037e5a33539f53/tensorflow/images/lockup.svg) | width=100)
+* ![](https://www.gstatic.com/devrel-devsite/prod/vdbc400b97a86c8815ab6ee057e8dc91626aee8cf89b10f7d89037e5a33539f53/tensorflow/images/lockup.svg | width=100)
 * [![GDAL][GDAL.js]][Next-url]
 * [![Tensorflow][TF.js]][Vue-url]
 
