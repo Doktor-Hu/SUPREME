@@ -212,7 +212,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@ZhongyangHu](https://twitter.com/zhongyanghu)) - email@example.com
+Your Name - [@ZhongyangHu](https://twitter.com/zhongyanghu) - z.hu[at]uu.nl
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
