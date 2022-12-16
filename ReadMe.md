@@ -98,7 +98,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Python 3.8.8][Python.js]][Next-url]
 * [![GDAL][GDAL.js]][Next-url]
 
-* ![](https://www.gstatic.com/devrel-devsite/prod/vdbc400b97a86c8815ab6ee057e8dc91626aee8cf89b10f7d89037e5a33539f53/tensorflow/images/lockup.svg|width=100)
+* ![](https://www.gstatic.com/devrel-devsite/prod/vdbc400b97a86c8815ab6ee057e8dc91626aee8cf89b10f7d89037e5a33539f53/tensorflow/images/lockup.svg | width=100)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
