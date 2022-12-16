@@ -39,9 +39,9 @@
   <p align="center">
     Dataset | Super Resolution Model | Training and Evaluation | Application
     <br />
-    <img src="https://badges.aleen42.com/src/python.svg" width="58" height="13">
-    <img src="https://img.shields.io/badge/OSGeo-GDAL-green" width="58" height="13">
-    <img src="https://badges.aleen42.com/src/tensorflow.svg" width="58" height="13">
+    <img src="https://badges.aleen42.com/src/python.svg" width="100">
+    <img src="https://img.shields.io/badge/OSGeo-GDAL-green" width="100">
+    <img src="https://badges.aleen42.com/src/tensorflow.svg" width="100">
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
