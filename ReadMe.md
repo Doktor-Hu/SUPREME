@@ -98,7 +98,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Python 3.8.8][Python.js]][Next-url]
 * [![GDAL][GDAL.js]][Next-url]
 <div style="width: 60%; height: 60%">
-* [![Tensorflow][TF.js]][Vue-url]
+[![Tensorflow][TF.js]][Vue-url]
 </div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
