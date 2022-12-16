@@ -34,7 +34,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">SUPREME: a SUPer-REsolution-based Melt Estimation over Antarctica</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
@@ -81,7 +81,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## SUPREME: a SUPer-REsolution-based Melt Estimation over Antarctica
+## About SUPREME and BASED
 
 ![product-screenshot](Asset/BASED.png)
 
